@@ -1,4 +1,4 @@
-Easytools including:
+Easytools -a Blender Addon including:
 1. Translating all the objects and sub collections in the current collection
 2. Procedural Blender materials including glass/light pollution/rusty metal etc.
 3. KD tree searching nearest point on the object
